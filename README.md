@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Clean Coding
 
-<!--
-**cleancoding-dev/cleancoding-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** passionate about **Clean Code**, **Elegant Architecture**, and **Quality Software**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- Python (FastAPI, Django)
+- Node.js, Express
+- PostgreSQL, MongoDB
+
+**Frontend:**
+- React, TypeScript
+- Tailwind CSS
+- Modern UI/UX
+
+**DevOps:**
+- Docker, Docker Compose
+- CI/CD Pipelines
+- Git Workflows
+
+## 💡 Philosophy
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
+
+## 📫 Contact
+
+📧 **hello@cleancoding.dev**  
+🌐 **cleancoding.dev** *(coming soon)*
+
+---
+
+*Clean Code • Elegant Solutions • Quality Software*
